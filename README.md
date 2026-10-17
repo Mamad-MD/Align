@@ -27,7 +27,7 @@
 
 <!-- 👇 لینک فیلم کامل را جایگزین YOUR_VIDEO_LINK_HERE کنید -->
 <p align="center">
-  <a href="(https://iutbox.iut.ac.ir/index.php/s/o6zMzKeFAa4bwEQ)">▶️ مشاهده فیلم کامل</a>
+  <a href="https://iutbox.iut.ac.ir/index.php/s/o6zMzKeFAa4bwEQ">▶️ مشاهده فیلم کامل</a>
 </p>
 
 ---
